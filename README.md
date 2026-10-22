@@ -1,2 +1,2 @@
 # FIRC-Treasurer-26-27
-Receipts file
+Receipts for FIRC online transfer
